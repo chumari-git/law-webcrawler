@@ -30,9 +30,9 @@ The crawler []
 
 ![Crawler](src/Screenshot_11-1-2025_222429_localhost.jpeg)
 
-![Execution](srcScreenshot_11-1-2025_223613_localhost.jpeg)
+![Execution](src/Screenshot_11-1-2025_223613_localhost.jpeg)
 
-![Output](srcScreenshot_11-1-2025_223613_localhost.jpeg)
+![Output](src/Screenshot_11-1-2025_223613_localhost.jpeg)
 
 ## Documentation
 
